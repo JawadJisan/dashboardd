@@ -8,6 +8,8 @@ import Homes from './Page/Home/Homes.js'
 export default function Home() {
   return (
     <div className={styles.container}>
+
+      {/*  */}
       <Head>
         <title>Create Next Apps</title>
         <meta name="description" content="Created by Jawad Jisan" />
